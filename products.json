@@ -1,0 +1,14 @@
+[
+  { "name": "Study Table", "sku": "FURN-TB-812", "category": "Furniture", "price": 3999, "quantity": 2, "reorderLevel": 4, "supplier": "IKEA India" },
+  { "name": "Office Chair", "sku": "FURN-CH-204", "category": "Furniture", "price": 5499, "quantity": 15, "reorderLevel": 5, "supplier": "Godrej Interio" },
+  { "name": "Bookshelf", "sku": "FURN-BS-377", "category": "Furniture", "price": 2799, "quantity": 3, "reorderLevel": 5, "supplier": "IKEA India" },
+  { "name": "Wireless Mouse", "sku": "ELEC-MS-101", "category": "Electronics", "price": 699, "quantity": 45, "reorderLevel": 15, "supplier": "Logitech" },
+  { "name": "Mechanical Keyboard", "sku": "ELEC-KB-102", "category": "Electronics", "price": 3499, "quantity": 20, "reorderLevel": 8, "supplier": "Redragon" },
+  { "name": "Bluetooth Speaker", "sku": "ELEC-SP-215", "category": "Electronics", "price": 2499, "quantity": 6, "reorderLevel": 10, "supplier": "boAt" },
+  { "name": "Laptop 15.6 inch", "sku": "ELEC-LP-550", "category": "Electronics", "price": 54999, "quantity": 5, "reorderLevel": 3, "supplier": "HP India" },
+  { "name": "Cotton T-Shirt", "sku": "APRL-TS-310", "category": "Apparel", "price": 499, "quantity": 60, "reorderLevel": 20, "supplier": "Allen Solly" },
+  { "name": "Denim Jacket", "sku": "APRL-JK-421", "category": "Apparel", "price": 2299, "quantity": 18, "reorderLevel": 8, "supplier": "Levis" },
+  { "name": "Gel Pen Pack of 15", "sku": "STNY-PN-713", "category": "Stationery", "price": 120, "quantity": 40, "reorderLevel": 20, "supplier": "Cello Pens" },
+  { "name": "A4 Notebook", "sku": "STNY-NB-714", "category": "Stationery", "price": 85, "quantity": 12, "reorderLevel": 25, "supplier": "Classmate" },
+  { "name": "Basmati Rice 5kg", "sku": "GROC-RC-901", "category": "Grocery", "price": 650, "quantity": 30, "reorderLevel": 10, "supplier": "India Gate" }
+]
